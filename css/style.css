@@ -1,0 +1,129 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	line-height: 1.7em;
+	background-color: #ede7f6;
+}
+.form{
+	height: 1100px;
+	width: 500px;
+	margin: auto;
+}
+.Required{
+	font-size: 13px;
+	color: red;
+}
+.image{
+	width: 500px;
+	height: 100px;
+	margin: 15px;
+	border-radius: 8px;
+	background-color: #fdfefe;
+	padding: 15px;
+}
+.image img{
+	width: 100%;
+}
+.title-div{
+	width: 500px;
+	height: 150px;
+	margin: 15px;
+	border-radius: 8px;
+	background-color: #fdfefe;
+	border-top: 8px solid #6703c4;
+	padding: 15px;
+}
+.title-div h1{
+	padding-bottom: 10px;
+	border-bottom:1.5px solid #DCD7D7 ;
+}
+.gmailswitch{
+	margin-top: 10px;
+}
+.gmailswitch a{
+	display: inline-block;
+	text-decoration: none;
+	color: deepskyblue;
+	font-weight: 300;
+}
+.mygamil{
+	font-weight: 700;
+	color:#70757a ;
+}
+.notshare{
+	padding-bottom: 10px;
+	border-bottom:1.5px solid #DCD7D7 ;
+	color:#70757a ;
+	font-weight: 400;
+}
+.notshare img{
+	width: 16px;
+    margin-right: 8px;
+}
+.name-div, .gmail-div, .Phone-div, .Githublink-div, .Assignment-div{
+	width: 530px;
+	height: 100px;
+	margin: 15px;
+	border-radius: 8px;
+	background-color: #fdfefe;
+	border-top: 8px;
+}
+.name{
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	font-size: 15px;
+}
+.input-div{
+	padding-top: 4px;
+	padding-left: 20px;
+}
+.input-div input{
+	width: 280px;
+	border: 0;
+	outline: 0;
+	border-bottom: 1.5px solid #DCD7D7;
+	font-size: 13px;
+}
+.btn{
+	height: 36px;
+	width: 100px;
+	background-color:#6703c4;
+	border-radius: 5px;
+	font-size: 14px;
+	font-weight: 540;
+	line-height: 1.3em;
+	letter-spacing: 1px;
+	border: none;
+	padding: 10px;
+	position: absolute;
+	margin: 15px;
+	color: white;
+	cursor: pointer;
+}
+.last-div h2{
+	text-align: center;
+	padding-top: 50px;
+	color: #a2a4a6;
+	font-weight: 300;
+}
+.term{
+	font-size: 12px;
+	padding-left: 65px;
+	padding-top: 5px;
+	position: absolute;
+	color: #70757a;
+}
+.Never{
+	padding-top: 70px;
+	padding-left: 15px;
+	font-size: 12px;
+	font-weight: 400;
+	color: #70757a;
+
+}

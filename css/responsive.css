@@ -1,0 +1,68 @@
+/*most of the galaxy fold mobile device code goes here*/
+
+@media (min-width: 279px) and (max-width:319px)
+{
+/*css strt*/
+.image{
+	width: 450px;
+	height: 90px;
+	margin: 10px;
+}
+.title-div{
+	width: 450px;
+	height: 150px;
+	margin: 10px;
+}
+.name-div, .gmail-div, .Phone-div, .Githublink-div, .Assignment-div{
+	width: 480px;
+	height: 90px;
+	margin: 10px;
+}
+/*css end*/
+}
+
+/*most of the smart phone or mobile device code goes here*/
+
+@media (min-width: 320px) and (max-width:480px)
+{
+/*css strt*/
+.image{
+	width: 450px;
+	height: 90px;
+	margin: 10px;
+}
+.title-div{
+	width: 450px;
+	height: 150px;
+	margin: 10px;
+}
+.name-div, .gmail-div, .Phone-div, .Githublink-div, .Assignment-div{
+	width: 480px;
+	height: 90px;
+	margin: 10px;
+}
+/*css end*/
+}
+
+/*most of the high.r mobile or low.r tab code goes here*/
+
+@media (min-width: 481px) and (max-width:767px)
+{
+/*css strt*/
+.image{
+	width: 450px;
+	height: 90px;
+	margin: 10px;
+}
+.title-div{
+	width: 450px;
+	height: 150px;
+	margin: 10px;
+}
+.name-div, .gmail-div, .Phone-div, .Githublink-div, .Assignment-div{
+	width: 480px;
+	height: 90px;
+	margin: 10px;
+}
+/*css end*/
+}
